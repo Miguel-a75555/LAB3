@@ -1,0 +1,29 @@
+#user-photo{
+    height: 25px;
+    width: 40px;
+}
+
+#first-slide{
+    width: 900px;
+    height: 350px;
+}
+
+#second-slide{
+    width: 900px;
+    height: 350px;
+}
+
+#third-slide{
+    width: 900px;
+    height: 350px;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    background-color: #333;
+}
+
+#anchor-regular{
+    width: fit-content;
+}
